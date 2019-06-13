@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="sweetalert2.js"></script>
+<script src="chart.min.js"></script>
+<script src="jquery-1.11.3.min.js"></script>
+<script src="ml5.min.js"></script>
+</head>
+<body>
+
+<div id="loadOverlay">
+    <div class="container">
+      <div class="loaderBox">
+        <div id="shell1"></div>
+        <div id="shell2"></div>
+        <div id="shell3"></div>
+        <div id="shell4"></div>
+        <div id="shell5"></div>
+        <div id="shell6"></div>
+        <div id="shell7"></div>
+        <div id="shell8"></div>
+        <div id="shell9"></div>
+        <div id="shell10"></div>
+        <p class="greenText">loading...</p>
+      </div>
+    </div>
+  </div> 
+
+<div class="selectionWrapper">
+    <div class="select">
+    <label for="videoSource">📷: </label>
+    <select id="videoSource"></select>
+  </div>
+</div>
+  <p class="hidden">
+    The MobileNet model labeled this as <span id="result">...</span>
+    <br />with a confidence of <span id="probability">...</span>.
+  </p>
+  <video id="video" height="100%" width="100%" autoplay></video>
+  <div id="results"></div>
+  <div id="chartContainer">
+    <canvas id="canvas1"></canvas>
+  </div>
+  <script src="sketch.js"></script>
+  </body>
+  
+  </html>
