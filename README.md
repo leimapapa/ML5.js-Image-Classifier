@@ -12,6 +12,8 @@ This uses the getUserMedia query to pass user video from a selected camera into 
 - Background color is set to the average video RGB color value
   - [Uses this code](http://jsfiddle.net/xLF38/818/)
 
-- **Clickable bar graph** pulls up a pop-up for that classification
+- Made **bar graph clickable** 
+  - Pulls up a sweetalert pop-up for that classification
 <img src="ImageClassifier1.png" alt="" width="200" />
+👇
 <img src="ImageClassifier2.png" alt="" width="200" />
