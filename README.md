@@ -8,4 +8,4 @@ This uses the getUserMedia query to pass user video into an image classifier.
 
 -- It can be triggered when the classifier reaches a certainty of 90% or higher or when the user clicks on the bar graph.
 
-![Basic Layout](ImageClassifier1.png)
+![Basic Layout](ImageClassifier1.png | width=100)
