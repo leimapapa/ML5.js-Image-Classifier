@@ -14,10 +14,13 @@ This uses the getUserMedia query to pass user video from a selected camera into 
 - User can select between any of their **multiple cameras**
 - Made **bar graph clickable** 
   - Pulls up a sweetalert pop-up for that classification
+  
 <p align="center">
   <img src="ImageClassifier4.png" alt="" width="400" />
 </p>
+
 - Popup automatically creates **link to Wikipedia** article
+
 <p align="center">
   <img src="ImageClassifier3.png" alt="" width="200" />
 </p>
