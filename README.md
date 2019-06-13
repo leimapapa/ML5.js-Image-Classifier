@@ -17,3 +17,7 @@ This uses the getUserMedia query to pass user video from a selected camera into 
 <p align="center">
   <img src="ImageClassifier4.png" alt="" width="400" />
 </p>
+- Popup automatically creates **link to Wikipedia** article
+<p align="center">
+  <img src="ImageClassifier3.png" alt="" width="400" />
+</p>
