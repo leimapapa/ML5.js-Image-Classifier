@@ -11,3 +11,4 @@ This uses the getUserMedia query to pass user video into an image classifier.
 
 - **Clickable bar graph** pulls up a pop-up for that classification
 <img src="ImageClassifier1.png" alt="" width="200" />
+<img src="ImageClassifier2.png" alt="" width="200" />
