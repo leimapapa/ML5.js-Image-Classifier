@@ -9,5 +9,5 @@ This uses the getUserMedia query to pass user video into an image classifier.
 -- It can be triggered when the classifier reaches a certainty of 90% or higher or when the user clicks on the bar graph.
 
 
-- Clickable bar graph pulls up a pop-up for that classification
+- **Clickable bar graph** pulls up a pop-up for that classification
 <img src="ImageClassifier1.png" alt="" width="200" />
